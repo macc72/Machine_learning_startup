@@ -1,5 +1,6 @@
 # Machine_learning_startup
 Scikit learn basics
+Start - June 2025
 
 I started off with a simple LinearRegression model and tried to predict the squares of numbers
 I learned the first part from a YT short video. The squares prediction was my own creativity.
